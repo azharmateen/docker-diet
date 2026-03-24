@@ -1,5 +1,8 @@
 # docker-diet
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 **Interactive TUI to visualize Docker disk usage and safely clean up resources.**
 
 See exactly where Docker is eating your disk. Tree view of images, containers, volumes, and build cache with color-coded size bars.
